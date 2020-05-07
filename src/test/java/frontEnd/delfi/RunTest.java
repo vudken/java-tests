@@ -1,4 +1,4 @@
-package delfi;
+package frontEnd.delfi;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -15,7 +15,7 @@ public class RunTest {
 
     @Test
     public void delfiTest() {
-        final String HOMEPAGE = "rus.delfi.lv";
+        final String HOMEPAGE = "rus.frontEnd.delfi.lv";
 
         core.goToUrl(HOMEPAGE);
 

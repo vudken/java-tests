@@ -1,4 +1,4 @@
-package tvNet;
+package frontEnd.tvNet;
 
 import org.openqa.selenium.By;
 

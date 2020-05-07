@@ -1,4 +1,4 @@
-package delfi;
+package frontEnd.delfi;
 
 import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
